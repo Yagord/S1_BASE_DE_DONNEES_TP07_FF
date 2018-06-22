@@ -1,0 +1,3 @@
+SEXE (Cdsexe, Lbsexe)
+1,garçon
+2,fille               

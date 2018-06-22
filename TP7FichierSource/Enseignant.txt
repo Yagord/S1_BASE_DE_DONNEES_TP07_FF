@@ -1,0 +1,9 @@
+ENSEIGNANT (Numens, Nomens, Grade, Ancien)
+1,Fermat,agrégé,15
+2,Cassini,maitre de conférence,10
+3,Hubert,professeur des universités,3
+4,Champollion,agrégé,7
+5,Ouvrard,maitre de conférence,8
+6,Dreutti,assistant,12
+7,Benlarbi,maitre de conférence,25
+8,Tovarich,professeur des universités,30

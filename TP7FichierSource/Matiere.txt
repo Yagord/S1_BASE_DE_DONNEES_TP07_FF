@@ -1,0 +1,7 @@
+MATIERE (Numat, Nomat, Coeff, Numens)
+1,Mathématiques,3,4
+2,Littérature,5,2
+3,Physique,7,1
+4,Sociologie,5,5
+5,Informatique,6,4
+6,Histoire,3,7  

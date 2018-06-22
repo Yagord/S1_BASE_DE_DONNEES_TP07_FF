@@ -1,0 +1,10 @@
+ETUDIANT(Numetu, Nometu, Dtnaiss, Cdsexe)
+1,Raphaelli,1998-12-17,1
+2,Trompeux,1998-06-04,1
+3,Francour,1998-01-29,2
+4,Goerg,1998-04-13,1
+5,Luciere,1998-05-24,2
+6,Grouillon,1997-01-01,1
+7,Turcaniounou,1996-06-14,2
+8,Ahouy,1999-12-15,1
+9,Schmidt,1998-02-12,1              
